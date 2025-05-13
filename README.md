@@ -2,7 +2,8 @@
 
 A modern task management application built with React and Vite.
 
-[image](https://github.com/user-attachments/assets/c986a647-7067-4391-9d77-c064a89e548d)
+![image](https://github.com/user-attachments/assets/8b1a2b68-7663-4fa8-9c53-825df880345e)
+
 
 
 ## 📋 Features
