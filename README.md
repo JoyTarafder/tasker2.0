@@ -2,7 +2,9 @@
 
 A modern task management application built with React and Vite.
 
-![Tasker App](https://via.placeholder.com/800x400?text=Tasker+App)
+![image](https://github.com/user-attachments/assets/8b1a2b68-7663-4fa8-9c53-825df880345e)
+
+
 
 ## 📋 Features
 
